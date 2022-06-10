@@ -1,7 +1,7 @@
 {
-  "name": "快速部署demo",
-  "description": "Deploy demo.",
-  "keywords": ["V", "X"],
+  "name": "oppeiftax01",
+  "description": "oppeiftax01",
+  "keywords": ["oppeiftax01"],
   "env": {
     "Site": {
       "description": "自定义伪装页面，例如：https://github.com/happyevero/Html/raw/main/S-html.zip ",
